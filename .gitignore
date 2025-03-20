@@ -1,0 +1,13 @@
+*.png
+*.zip
+*.csv
+*.xlsx
+*.txt
+.history
+__pyache__
+*.joblib
+*.h5
+*.keras
+*.pkl
+
+.env
